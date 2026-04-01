@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sanaz\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.modules.json",
+      "PackagePath": "staticwebassets\\_framework\\blazor.modules.json"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.webview.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webview.js"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\scopedcss\\bundle\\ListadoProductos.styles.css",
+      "PackagePath": "staticwebassets\\ListadoProductos.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\staticwebassets\\msbuild.ListadoProductos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\staticwebassets\\msbuild.ListadoProductos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\staticwebassets\\msbuild.build.ListadoProductos.props",
+      "PackagePath": "build\\ListadoProductos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.ListadoProductos.props",
+      "PackagePath": "buildMultiTargeting\\ListadoProductos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.ListadoProductos.props",
+      "PackagePath": "buildTransitive\\ListadoProductos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
