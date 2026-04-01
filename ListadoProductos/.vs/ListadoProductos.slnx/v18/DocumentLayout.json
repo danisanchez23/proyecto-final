@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D45580-4519-4FD4-AB83-E74F60F311FF}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3D45580-4519-4FD4-AB83-E74F60F311FF}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ListadoProductos\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "ListadoProductos\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-01T01:34:58.702Z",
               "EditorCaption": ""
