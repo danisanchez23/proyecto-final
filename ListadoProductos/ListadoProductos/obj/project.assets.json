@@ -2843,6 +2843,16 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-android36.0/android-arm64": {
@@ -5686,6 +5696,16 @@
           "lib/net10.0-android36.0/Xamarin.KotlinX.Serialization.Core.Jvm.dll": {
             "related": ".aar;.pdb;.xml"
           }
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -8531,6 +8551,16 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-android36.0/iossimulator-x64": {
@@ -11374,6 +11404,16 @@
           "lib/net10.0-android36.0/Xamarin.KotlinX.Serialization.Core.Jvm.dll": {
             "related": ".aar;.pdb;.xml"
           }
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -14219,6 +14259,16 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-android36.0/win-x64": {
@@ -17063,6 +17113,16 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-ios26.2": {
@@ -17886,6 +17946,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -18711,6 +18781,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-ios26.2/android-x64": {
@@ -19534,6 +19614,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -20359,6 +20449,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-ios26.2/maccatalyst-x64": {
@@ -21182,6 +21282,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -22007,6 +22117,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-maccatalyst26.2": {
@@ -22830,6 +22950,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -23655,6 +23785,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-maccatalyst26.2/android-x64": {
@@ -24478,6 +24618,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -25303,6 +25453,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-maccatalyst26.2/maccatalyst-x64": {
@@ -26127,6 +26287,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-maccatalyst26.2/win-x64": {
@@ -26950,6 +27120,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -28026,6 +28206,16 @@
             "rid": "win-x86"
           }
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-windows10.0.19041/android-arm64": {
@@ -29038,6 +29228,16 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -30052,6 +30252,16 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-windows10.0.19041/iossimulator-x64": {
@@ -31065,6 +31275,16 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        }
       }
     },
     "net10.0-windows10.0.19041/maccatalyst-x64": {
@@ -32077,6 +32297,16 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     },
@@ -33100,6 +33330,16 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "ListadoProductos.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListadoProductos.Servicios.dll": {}
         }
       }
     }
@@ -38032,28 +38272,37 @@
         "xamarin.kotlinx.serialization.core.jvm.1.9.0.1.nupkg.sha512",
         "xamarin.kotlinx.serialization.core.jvm.nuspec"
       ]
+    },
+    "ListadoProductos.Servicios/1.0.0": {
+      "type": "project",
+      "path": "../ListadoProductos.Servicios/ListadoProductos.Servicios.csproj",
+      "msbuildProject": "../ListadoProductos.Servicios/ListadoProductos.Servicios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0-android36.0": [
+      "ListadoProductos.Servicios >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 10.0.20",
       "Microsoft.Extensions.Logging.Debug >= 10.0.0",
       "Microsoft.Maui.Controls >= 10.0.20",
       "Microsoft.NET.ILLink.Tasks >= 10.0.5"
     ],
     "net10.0-ios26.2": [
+      "ListadoProductos.Servicios >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 10.0.20",
       "Microsoft.Extensions.Logging.Debug >= 10.0.0",
       "Microsoft.Maui.Controls >= 10.0.20",
       "Microsoft.NET.ILLink.Tasks >= 10.0.5"
     ],
     "net10.0-maccatalyst26.2": [
+      "ListadoProductos.Servicios >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 10.0.20",
       "Microsoft.Extensions.Logging.Debug >= 10.0.0",
       "Microsoft.Maui.Controls >= 10.0.20",
       "Microsoft.NET.ILLink.Tasks >= 10.0.5"
     ],
     "net10.0-windows10.0.19041": [
+      "ListadoProductos.Servicios >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebView.Maui >= 10.0.20",
       "Microsoft.Extensions.Logging.Debug >= 10.0.0",
       "Microsoft.Maui.Controls >= 10.0.20"
@@ -38095,19 +38344,35 @@
       "frameworks": {
         "net10.0-android36.0": {
           "targetAlias": "net10.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj": {
+              "projectPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj"
+            }
+          }
         },
         "net10.0-ios26.2": {
           "targetAlias": "net10.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj": {
+              "projectPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj"
+            }
+          }
         },
         "net10.0-maccatalyst26.2": {
           "targetAlias": "net10.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj": {
+              "projectPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj"
+            }
+          }
         },
         "net10.0-windows10.0.19041": {
           "targetAlias": "net10.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj": {
+              "projectPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos.Servicios\\ListadoProductos.Servicios.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

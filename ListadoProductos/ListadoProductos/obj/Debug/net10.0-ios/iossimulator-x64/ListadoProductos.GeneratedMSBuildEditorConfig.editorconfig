@@ -54,10 +54,21 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sanaz/OneDrive/Documents/personal/progra/PROYECTO FINAL/ListadoProductos/ListadoProductos/Components/Pages/Counter.razor]
+[C:/Users/sanaz/OneDrive/Documents/personal/progra/PROYECTO FINAL/ListadoProductos/ListadoProductos/Components/Pages/FormEditarProductoPage.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGb3JtRWRpdGFyUHJvZHVjdG9QYWdlLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.Inflator = 
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanaz/OneDrive/Documents/personal/progra/PROYECTO FINAL/ListadoProductos/ListadoProductos/Components/Pages/FormProductoPage.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGb3JtUHJvZHVjdG9QYWdlLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.Inflator = 
 build_metadata.AdditionalFiles.NoWarn = 
@@ -87,10 +98,10 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sanaz/OneDrive/Documents/personal/progra/PROYECTO FINAL/ListadoProductos/ListadoProductos/Components/Pages/Weather.razor]
+[C:/Users/sanaz/OneDrive/Documents/personal/progra/PROYECTO FINAL/ListadoProductos/ListadoProductos/Components/Pages/ProductoPage.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0b1BhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.Inflator = 
 build_metadata.AdditionalFiles.NoWarn = 
