@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\pages\\formeditarproductopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\pages\\formeditarproductopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\pages\\formproductopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\pages\\formproductopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|c:\\users\\sanaz\\onedrive\\documents\\personal\\progra\\proyecto final\\listadoproductos\\listadoproductos\\components\\pages\\productopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB93D17-9E2D-053F-0C59-C29C43DC5257}|ListadoProductos\\ListadoProductos.csproj|solutionrelative:listadoproductos\\components\\pages\\productopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormEditarProductoPage.razor",
-              "DocumentMoniker": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\FormEditarProductoPage.razor",
-              "RelativeDocumentMoniker": "ListadoProductos\\Components\\Pages\\FormEditarProductoPage.razor",
-              "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\FormEditarProductoPage.razor",
-              "RelativeToolTip": "ListadoProductos\\Components\\Pages\\FormEditarProductoPage.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "ListadoProductos\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\wwwroot\\app.css",
+              "RelativeToolTip": "ListadoProductos\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-11T19:10:03.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoPage.razor",
+              "DocumentMoniker": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\ProductoPage.razor",
+              "RelativeDocumentMoniker": "ListadoProductos\\Components\\Pages\\ProductoPage.razor",
+              "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\ProductoPage.razor",
+              "RelativeToolTip": "ListadoProductos\\Components\\Pages\\ProductoPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T22:23:45.474Z",
+              "WhenOpened": "2026-04-11T18:51:34.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormProductoPage.razor",
-              "DocumentMoniker": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\FormProductoPage.razor",
-              "RelativeDocumentMoniker": "ListadoProductos\\Components\\Pages\\FormProductoPage.razor",
-              "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Pages\\FormProductoPage.razor",
-              "RelativeToolTip": "ListadoProductos\\Components\\Pages\\FormProductoPage.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ListadoProductos\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\sanaz\\OneDrive\\Documents\\personal\\progra\\PROYECTO FINAL\\ListadoProductos\\ListadoProductos\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ListadoProductos\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T22:20:46.376Z",
+              "WhenOpened": "2026-04-11T18:31:50.327Z",
               "EditorCaption": ""
             }
           ]

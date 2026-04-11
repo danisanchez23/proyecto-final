@@ -99,3 +99,124 @@ h1:focus {
         padding-left: env(safe-area-inset-left);
     }
 }
+
+:root {
+    --azul-oscuro: #042C53;
+    --azul-barra: #185FA5;
+    --azul-medio: #378ADD;
+    --azul-borde: #0C447C;
+    --azul-suave: #85B7EB;
+    --azul-claro: #B5D4F4;
+    --azul-fondo: #E6F1FB;
+}
+
+/* Fondo general */
+.page-main {
+    background-color: var(--azul-fondo) !important;
+}
+
+/* Tabla */
+.table th {
+    background-color: var(--azul-fondo) !important;
+    color: var(--azul-medio) !important;
+    font-size: 11px;
+    letter-spacing: 0.3px;
+    border-bottom: 0.5px solid var(--azul-claro) !important;
+}
+
+.table td {
+    color: var(--azul-borde);
+    border-bottom: 0.5px solid var(--azul-fondo) !important;
+}
+
+.table tr:hover td {
+    background-color: var(--azul-fondo) !important;
+}
+
+.table-bordered {
+    border: 0.5px solid var(--azul-claro) !important;
+}
+
+/* Botones */
+.btn-primary {
+    background-color: var(--azul-fondo) !important;
+    border: 0.5px solid var(--azul-suave) !important;
+    color: var(--azul-barra) !important;
+}
+
+.btn-danger {
+    background-color: var(--azul-fondo) !important;
+    border: 0.5px solid var(--azul-suave) !important;
+    color: var(--azul-oscuro) !important;
+}
+
+.btn-success {
+    background-color: var(--azul-fondo) !important;
+    border: 0.5px solid var(--azul-suave) !important;
+    color: var(--azul-barra) !important;
+}
+
+.btn-secondary {
+    background-color: var(--azul-fondo) !important;
+    border: 0.5px solid var(--azul-suave) !important;
+    color: var(--azul-barra) !important;
+}
+
+/* Formularios */
+.form-control, .form-select {
+    border: 0.5px solid var(--azul-claro) !important;
+    color: var(--azul-borde) !important;
+}
+
+    .form-control:focus, .form-select:focus {
+        border-color: var(--azul-medio) !important;
+        box-shadow: 0 0 0 2px var(--azul-claro) !important;
+    }
+
+.form-label {
+    color: var(--azul-medio);
+    font-size: 13px;
+}
+
+.input-group-text {
+    background-color: var(--azul-fondo) !important;
+    border: 0.5px solid var(--azul-claro) !important;
+    color: var(--azul-barra) !important;
+    font-weight: 500;
+}
+
+/* Títulos de páginas */
+h3 {
+    color: var(--azul-oscuro);
+    font-weight: 500;
+}
+
+.nav-link {
+    color: #85B7EB !important;
+    padding: 12px 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    font-size: 14px !important;
+}
+
+    .nav-link:hover {
+        background-color: rgba(255,255,255,0.08) !important;
+        color: #fff !important;
+    }
+
+    .nav-link.active {
+        background-color: rgba(255,255,255,0.1) !important;
+        color: #fff !important;
+        border-left: 2px solid #85B7EB !important;
+    }
+
+    .nav-link .bi {
+        font-size: 15px !important;
+        flex-shrink: 0;
+    }
+
+.nav-item {
+    padding: 0 !important;
+    margin: 2px 0 !important;
+}

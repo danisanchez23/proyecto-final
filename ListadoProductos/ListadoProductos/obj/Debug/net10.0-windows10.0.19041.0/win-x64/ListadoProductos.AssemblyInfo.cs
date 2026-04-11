@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListadoProductos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+372f61ebb02e73816afe9bc990696c7073adf564")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f22bef14845528221a8a5f134e32ccafc1274d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListadoProductos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListadoProductos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
